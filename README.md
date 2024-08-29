@@ -1,6 +1,6 @@
 # Home_Sales
 
-# Overview of Assignment 
+## Overview of Assignment 
 In this assignment I used SparkSQL to determine key metrics about home sales data.
 
 ## Instructions to Final Work 
